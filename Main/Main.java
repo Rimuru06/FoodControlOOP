@@ -37,7 +37,7 @@ public class Main {
 
         System.out.print("\n\n\n----------------------------------------------------------\n");
         System.out.print("\n----------------------------------------------------------\n");
-        System.out.print("\nBEM-VINDO AO SOFTWARE FOODCONTROL\n\nProduzido por: Felipe Nunes Macario De Faria & Thiago Ribeiro Aragão\n");
+        System.out.print("\nBEM-VINDO AO SOFTWARE FOODCONTROL\n\n");
         int etapaMenu = 0;
 
         do {
